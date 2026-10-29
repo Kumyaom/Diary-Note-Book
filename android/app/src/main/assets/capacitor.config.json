@@ -1,0 +1,12 @@
+{
+	"appId": "com.diarynotebook.app",
+	"appName": "Diary Note Book",
+	"webDir": "dist",
+	"backgroundColor": "#000000",
+	"android": {
+		"allowMixedContent": false
+	},
+	"server": {
+		"androidScheme": "https"
+	}
+}
